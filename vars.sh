@@ -1,0 +1,7 @@
+export UPSTREAM_GERRIT_HOST_PUBLIC_KEY="ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQDhhr5SZJwRQcDUsTenveyJGPZVwUCuHoXaLlrYzsnpFceXZyzdg2J2Eg7vbpwzKloWKl3kxAgNPw7Plq/Y9aBeQplm6ueRBccfuQH7taL8bdQScUzBkNUbtQUf0CD+u7RnCuGux0cIspuBwX5Dx20zNArWJY6tNM5HzbAfayWV4w== sandeep@sandeep-VirtualBox"
+export GIT_EMAIL='testing@myvendor.com'
+export GIT_NAME='MyVendor Jenkins'
+export UPSTREAM_GERRIT_USER=gerrit2
+export UPSTREAM_GERRIT_SSH_KEY_PATH=gerrit_key
+export JENKINS_SSH_KEY_PATH=jenkins_key
+export PUBLISH_HOST=127.0.0.1
